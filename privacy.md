@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Pranav B built the SAT Daily! iOS Application as a FREE app. This app is provided by Pranav B at no cost and is intended for individual use.
+Pranav B built the SAT/ACT Daily! iOS/Android Application as a FREE app. This app is provided by Pranav B at no cost and is intended for individual use.
 
 # Information Collection and Use
 
